@@ -1,0 +1,2 @@
+module Combat_Naval {
+}
